@@ -4,6 +4,7 @@
 <img width="1920" height="1080" alt="astro-portfolio" src="https://github.com/user-attachments/assets/0df80067-5fe2-4c24-90c4-4eb28e1a7508" />
 
 ![Deploy Status](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
 ---
 
