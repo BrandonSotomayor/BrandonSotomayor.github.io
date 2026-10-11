@@ -1,7 +1,7 @@
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://BrandonSotomayor.github.io',
+  site: 'https://brandonsotomayor.github.io',
 integrations: [tailwind(), react()],
 vite: {
 resolve: {
