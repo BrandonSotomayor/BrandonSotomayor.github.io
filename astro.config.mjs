@@ -6,5 +6,5 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig(
-  site: 'https://bran_sotomayor.github.io'
+  site: 'https://github.io'
 );
